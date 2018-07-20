@@ -27,8 +27,8 @@ AdventureWorks is a Microsoft-supplied sample that model a fictitious bicycle co
 </p>
 
 10. The `Lockup` component add more data to our temp table. In addition, we use a `Derived Column` to work with those rows that don't match. Finally, the `Union All` rejoin our default and good data. 
-11. Now that we have all our the colums that we need to shape our customer dimension we are going to implement SCD Type 2.
-12. Finally, we insert the data into a destination.
+11. Now that we have all our the colums that we need to shape our customer dimension we are going to implement SCD.
+12. Finally, we insert the data into the destination.
 
 <p align="center">
   <img width="500" src="Images/Fig2.jpg">
