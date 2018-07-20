@@ -18,7 +18,7 @@ Designing and implementing an ETL solution to load a small portion of a data war
 </p>
 
 6. Data flow view from SSIS. The customer dimension is shaped from different sources. We have data coming from the database, data coming from a flat file, and more data through a temp table via a lookup (as well as defaulting data that we don't have).
-7. SCD is implemented
+7. Type 2 SCD is implemented.
 
 <p align="center">
   <img width="500" src="Images/Fig2.jpg">
