@@ -1,6 +1,6 @@
 # ETL Solution for AdventureWorks
 
-AdventureWorks is a Microsoft-supplied sample that model a fictitious bicycle company. Microsoft provided the OLTP and data warehouse. We will design and implement an ETL solution that loads dimensions from different sources, implement slowly changing dimensions (SCD), and we will build an SSIS package.
+AdventureWorks is a Microsoft-supplied sample that model a fictitious bicycle company. Microsoft provided the OLTP and data warehouse. We will design and implement an ETL solution that loads dimensions from different sources (OLTP and .csv), implement slowly changing dimensions (SCD Type 2), and we will build an SSIS package.
 
 ### Environment
 * Microsoft SQL Server Management Studio 2012
